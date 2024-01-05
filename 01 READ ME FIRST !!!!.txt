@@ -1,7 +1,7 @@
 SIMPLE MARIO GAME IN PYTHON
 
 
-**Developed By Puchalla Surya Prakash Reddy**
+**Developed By CodeHappy4U**
 
 
 
@@ -11,7 +11,6 @@ SIMPLE MARIO GAME IN PYTHON
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
 
 
 #THANK YOU FOR DOWNLOADING
